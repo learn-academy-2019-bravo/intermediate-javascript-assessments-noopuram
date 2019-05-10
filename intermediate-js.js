@@ -1,4 +1,4 @@
-// Intermediate Javascript Assessments
+// Intermediate Javascript Assessments,,,,,,
 
 // 1. Write an arrow function that takes one argument of type array and returns the contents of that array in reverse order.
 
